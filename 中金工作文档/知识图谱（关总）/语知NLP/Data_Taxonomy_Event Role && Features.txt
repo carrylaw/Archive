@@ -1,0 +1,117 @@
+- {Event Role and Features}
+  ├ {EventRole}       动态角色 (Total: 91, "state")
+  │ ├ {AccordingTo}         {~}	{根据}
+  │ ├ {CoEvent}             {0}	{对应之事件}
+  │ ├ {ContentCompare}      {~}	{比较内容}
+  │ ├ {ContentProduct}      {~}	{内容成品}
+  │ ├ {DurationAfterEvent}  {~}	{后延时段}
+  │ ├ {DurationBeforeEvent} {~}	{前耗时段  (不到三年就成名了, 四年后他成远近闻名的大富豪)}
+  │ ├ {EventProcess}        {~}	{事件过程}
+  │ ├ {HostOf}              {~}	{之宿主}
+  │ ├ {LocationFin}         {~}	{终处所}
+  │ ├ {LocationIni}         {~}	{原处所}
+  │ ├ {LocationThru}        {~}	{通过处所}
+  │ ├ {MaterialOf}          {~}	{之材料}
+  │ ├ {OfPart}              {~}	{部分}
+  │ ├ {PartOfTouch}         {~}	{触及部件}
+  │ ├ {PatientAttribute}    {~}	{受事属性}
+  │ ├ {PatientPart}         {~}	{受事部件}
+  │ ├ {PatientProduct}      {~}	{成品受事}
+  │ ├ {PatientValue}        {~}	{受事属性值}
+  │ ├ {QuantityCompare}     {~}	{比较量}
+  │ ├ {RelateTo}            {~}	{相关}
+  │ ├ {ResultContent}       {~}	{结果内容}
+  │ ├ {ResultEvent}         {~}	{结果事件}
+  │ ├ {ResultIsa}           {~}	{结果类指}
+  │ ├ {ResultWhole}         {~}	{结果整体}
+  │ ├ {SincePeriod}         {~}	{起自时段  (近年来，近十年来，四年来，这些年来...)
+  │ ├ {SincePoint}          {~}	{起自时点  (建国以来，从小，打小，自从他出国以来，自打他进去了以后...)}
+  │ ├ {SourceWhole}         {~}	{来源整体}
+  │ ├ {StateFin}            {~}	{终状态}
+  │ ├ {StateIni}            {~}	{原状态}
+  │ ├ {TimeAfter}           {~}	{之后}
+  │ ├ {TimeBefore}          {~}	{之前}
+  │ ├ {TimeFin}             {~}	{终止时间}
+  │ ├ {TimeIni}             {~}	{起始时间}
+  │ ├ {TimeRange}           {~}	{时距}
+  │ ├ {able}                {~}	{能}
+  │ ├ {accompaniment}       {~}	{伴随}
+  │ ├ {agent}               {~}	{施事}
+  │ ├ {aim}                 {~}	{目标}
+  │ ├ {and}                 {~}	{并列}
+  │ ├ {aspect}              {~}	{体}
+  │ ├ {belong}              {~}	{归属}
+  │ ├ {beneficiary}         {~}	{受益者}
+  │ ├ {besides}             {~}	{递进}
+  │ ├ {but}                 {~}	{但是}
+  │ ├ {cause}               {~}	{原因}
+  │ ├ {coagent}             {~}	{合作施事} 
+  │ ├ {comment}             {~}	{评论}
+  │ ├ {concerning}          {~}	{关于}
+  │ ├ {concession}          {~}	{让步}
+  │ ├ {condition}           {~}	{条件}
+  │ ├ {content}             {~}	{内容}
+  │ ├ {contrast}            {~}	{参照体}
+  │ ├ {cost}                {~}	{代价}
+  │ ├ {degree}              {~}	{程度}
+  │ ├ {descriptive}         {~}	{描写体}
+  │ ├ {direction}           {~}	{方向}
+  │ ├ {distance}            {~}	{距离}
+  │ ├ {duration}            {~}	{进程时段}
+  │ ├ {emphasis}            {~}	{强调}
+  │ ├ {except}              {~}	{除了}
+  │ ├ {existent}            {~}	{存现体}
+  │ ├ {experiencer}         {~}	{经验者}
+  │ ├ {frequency}           {~}	{频率}
+  │ ├ {host}                {0}	{宿主}
+  │ ├ {instrument}          {~}	{工具}
+  │ ├ {isa}                 {~}	{类指}
+  │ ├ {location}            {~}	{处所}
+  │ ├ {manner}              {~}	{方式}
+  │ ├ {material}            {~}	{材料}
+  │ ├ {means}               {~}	{手段}
+  │ ├ {method}              {~}	{方法}
+  │ ├ {modifier}            {~}	{描述}
+  │ ├ {must}                {~}	{应该}
+  │ ├ {or}                  {~}	{或者}
+  │ ├ {partner}             {~}	{相伴体}
+  │ ├ {patient}             {~}	{受事}
+  │ ├ {possession}          {~}	{占有物}
+  │ ├ {possessor}           {~}	{领有者}
+  │ ├ {purpose}             {~}	{目的}
+  │ ├ {quantity}            {~}	{数量}
+  │ ├ {range}               {~}	{幅度}
+  │ ├ {relevant}            {~}	{关系主体}
+  │ ├ {restrictive}         {~}	{限定}
+  │ ├ {result}              {~}	{结果}
+  │ ├ {scope}               {~}	{范围}
+  │ ├ {sequence}            {~}	{次序}
+  │ ├ {source}              {~}	{来源}
+  │ ├ {state}               {~}	{状态}
+  │ ├ {succeeding}          {~}	{接续}
+  │ ├ {target}              {~}	{目标}
+  │ ├ {time}                {~}	{时间}
+  │ ├ {times}               {~}	{动量}
+  │ ├ {transition}          {~}	{转折}
+  │ ├ {whole}               {0}	{整体}
+  │ └ {will}                {~}	{意志}
+  ├ {Event Features}  动态属性
+  │  ├ {PartPosition}        部件位置
+  │  ├ {PersonPro}           人称
+  │  ├ {PlaceSect}           地域
+  │  ├ {TimeFeature}         时间特性
+  │  ├ {TimeSect}            时间段
+  │  ├ {adjunct}             修饰语
+  │  ├ {domain}              领域
+  │  ├ {focus}               焦点
+  │  └ {topic}               主题
+  └ {axiomatic relationship & role shifting}
+     ├ {cause}
+     ├ {consequence}
+     ├ {hypernym}
+     ├ {implication}
+     ├ {interchangeable}
+     ├ {mutual implication}
+     ├ {mutual precondition}
+     ├ {possible consequence}
+     └ {precondition}
