@@ -1,0 +1,3 @@
+empno,ename,job,leader,hiredate,sal,comm,deptno
+3005,chloe,salesman,3001,1987/2/20,5600,6000,3
+3002,danae,salesman,3001,1987/2/24,6000,10000,3
