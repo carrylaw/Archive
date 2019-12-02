@@ -1,0 +1,57 @@
+周 artist+b
+杰 artist+i
+伦 artist+e
+的 O
+歌 O
+
+刘 artist+b
+德 artist+i
+华 artist+e
+的 O
+歌 O
+
+播 O
+放 O
+周 artist+b
+杰 artist+i
+伦 artist+e
+
+播 O
+放 O
+邓 artist+b
+家 artist+i
+仙 artist+e
+的 O
+歌 O
+
+周 artist+b
+杰 artist+i
+伦 artist+e
+是 O
+谁 O
+
+周 artist+b
+杰 artist+i
+伦 artist+e
+是 O
+谁 O
+
+周 artist+b
+杰 artist+i
+伦 artist+e
+是 O
+谁 O
+
+周 artist+b
+杰 artist+i
+伦 artist+e
+是 O
+谁 O
+
+播 O
+放 O
+周 artist+b
+杰 artist+i
+伦 artist+e
+的 O
+歌 O
